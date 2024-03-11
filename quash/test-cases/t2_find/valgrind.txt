@@ -1,0 +1,21 @@
+==219859== Memcheck, a memory error detector
+==219859== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==219859== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==219859== Command: /home/j596h407/EECS/EECS678_quash/quash/quash/quash
+==219859== 
+==219859== 
+==219859== HEAP SUMMARY:
+==219859==     in use at exit: 64 bytes in 1 blocks
+==219859==   total heap usage: 12 allocs, 11 frees, 28,134 bytes allocated
+==219859== 
+==219859== LEAK SUMMARY:
+==219859==    definitely lost: 0 bytes in 0 blocks
+==219859==    indirectly lost: 0 bytes in 0 blocks
+==219859==      possibly lost: 0 bytes in 0 blocks
+==219859==    still reachable: 64 bytes in 1 blocks
+==219859==         suppressed: 0 bytes in 0 blocks
+==219859== Reachable blocks (those to which a pointer was found) are not shown.
+==219859== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==219859== 
+==219859== For lists of detected and suppressed errors, rerun with: -s
+==219859== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

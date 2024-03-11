@@ -1,0 +1,85 @@
+==219944== Memcheck, a memory error detector
+==219944== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==219944== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==219944== Command: /home/j596h407/EECS/EECS678_quash/quash/quash/quash
+==219944== 
+==220061== 
+==220061== HEAP SUMMARY:
+==220061==     in use at exit: 72 bytes in 2 blocks
+==220061==   total heap usage: 12 allocs, 10 frees, 31,190 bytes allocated
+==220061== 
+==220061== LEAK SUMMARY:
+==220061==    definitely lost: 0 bytes in 0 blocks
+==220061==    indirectly lost: 0 bytes in 0 blocks
+==220061==      possibly lost: 0 bytes in 0 blocks
+==220061==    still reachable: 72 bytes in 2 blocks
+==220061==         suppressed: 0 bytes in 0 blocks
+==220061== Reachable blocks (those to which a pointer was found) are not shown.
+==220061== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==220061== 
+==220061== For lists of detected and suppressed errors, rerun with: -s
+==220061== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==220093== 
+==220093== HEAP SUMMARY:
+==220093==     in use at exit: 544 bytes in 3 blocks
+==220093==   total heap usage: 19 allocs, 16 frees, 37,130 bytes allocated
+==220093== 
+==220093== LEAK SUMMARY:
+==220093==    definitely lost: 0 bytes in 0 blocks
+==220093==    indirectly lost: 0 bytes in 0 blocks
+==220093==      possibly lost: 0 bytes in 0 blocks
+==220093==    still reachable: 544 bytes in 3 blocks
+==220093==         suppressed: 0 bytes in 0 blocks
+==220093== Reachable blocks (those to which a pointer was found) are not shown.
+==220093== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==220093== 
+==220093== For lists of detected and suppressed errors, rerun with: -s
+==220093== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==220129== 
+==220129== HEAP SUMMARY:
+==220129==     in use at exit: 72 bytes in 2 blocks
+==220129==   total heap usage: 29 allocs, 27 frees, 36,314 bytes allocated
+==220129== 
+==220129== LEAK SUMMARY:
+==220129==    definitely lost: 0 bytes in 0 blocks
+==220129==    indirectly lost: 0 bytes in 0 blocks
+==220129==      possibly lost: 0 bytes in 0 blocks
+==220129==    still reachable: 72 bytes in 2 blocks
+==220129==         suppressed: 0 bytes in 0 blocks
+==220129== Reachable blocks (those to which a pointer was found) are not shown.
+==220129== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==220129== 
+==220129== For lists of detected and suppressed errors, rerun with: -s
+==220129== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==220184== 
+==220184== HEAP SUMMARY:
+==220184==     in use at exit: 544 bytes in 3 blocks
+==220184==   total heap usage: 36 allocs, 33 frees, 42,254 bytes allocated
+==220184== 
+==220184== LEAK SUMMARY:
+==220184==    definitely lost: 0 bytes in 0 blocks
+==220184==    indirectly lost: 0 bytes in 0 blocks
+==220184==      possibly lost: 0 bytes in 0 blocks
+==220184==    still reachable: 544 bytes in 3 blocks
+==220184==         suppressed: 0 bytes in 0 blocks
+==220184== Reachable blocks (those to which a pointer was found) are not shown.
+==220184== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==220184== 
+==220184== For lists of detected and suppressed errors, rerun with: -s
+==220184== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+==219944== 
+==219944== HEAP SUMMARY:
+==219944==     in use at exit: 64 bytes in 1 blocks
+==219944==   total heap usage: 39 allocs, 38 frees, 34,946 bytes allocated
+==219944== 
+==219944== LEAK SUMMARY:
+==219944==    definitely lost: 0 bytes in 0 blocks
+==219944==    indirectly lost: 0 bytes in 0 blocks
+==219944==      possibly lost: 0 bytes in 0 blocks
+==219944==    still reachable: 64 bytes in 1 blocks
+==219944==         suppressed: 0 bytes in 0 blocks
+==219944== Reachable blocks (those to which a pointer was found) are not shown.
+==219944== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==219944== 
+==219944== For lists of detected and suppressed errors, rerun with: -s
+==219944== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

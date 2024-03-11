@@ -1,0 +1,5 @@
+/home/j596h407/EECS/EECS678_quash/quash/quash/test-cases/t3_find_grep/sandbox/dir1/valgrind_expected.txt
+/home/j596h407/EECS/EECS678_quash/quash/quash/test-cases/t3_find_grep/sandbox/dir3/dir3-1/valgrind_expected.txt
+/home/j596h407/EECS/EECS678_quash/quash/quash/test-cases/t3_find_grep/sandbox/dir3/valgrind_expected.txt
+/home/j596h407/EECS/EECS678_quash/quash/quash/test-cases/t3_find_grep/sandbox/.valgrind_expected.txt
+/home/j596h407/EECS/EECS678_quash/quash/quash/test-cases/t3_find_grep/sandbox/valgrind_expected.txt
